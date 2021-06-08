@@ -1,0 +1,56 @@
+.main
+{
+	position: relative;
+	margin-top: 0%;
+}
+
+ul
+{
+	list-style-type: none;
+	float:right;
+}
+
+ul li
+{
+	display: inline-block;
+	margin-top:5%;
+}
+ul li a
+{
+	text-decoration: none;
+	color:#000000;
+	padding:5px 20px;
+	transition: 0.6s ease;
+}
+ul li a:hover
+{
+	background-color:#fff;
+	
+}
+
+thead {
+    background: #e2d736;
+    color: #010fff;
+    border-radius: .4em;
+    overflow-x : auto;
+  }
+tr {
+      border-color: lighten(#34495E, 10%);
+      }
+td {
+     background:#222930; 
+     color: #4eb1ba;
+      }
+
+#table {
+    margin-top : 10%;
+}
+
+#btn {
+  border-radius: 8px;
+}
+
+.table1{
+  position: relative;
+  margin-left:50px;
+}

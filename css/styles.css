@@ -1,0 +1,22 @@
+body
+{
+   background-color:rgb(240, 240, 240);
+}
+h1
+{
+   text-align:center;
+   color:red;
+}
+table,th,td
+{
+   border:1px solid black;
+}
+td
+{
+   padding:10px;
+}
+input#r01 
+{
+   width: 100px; 
+   background-color: rgb(144, 192, 169);
+}
