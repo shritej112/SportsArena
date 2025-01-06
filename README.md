@@ -55,10 +55,6 @@ SportsArena/
 2. Register or log in to make bookings or purchases.
 3. Admins can log in to the dashboard to manage users, products, and bookings.
 
-## Screenshots
-
-_Include screenshots here to showcase the interface and features._
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
